@@ -68,24 +68,3 @@ get_mac(interface)
 process(interface, mac_address)
 compare(interface)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
